@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1177b768e88a679d078f107697ffe87d",
+    "revision": "480d9997000f76dc550ea9823c9609f8",
     "url": "https://tfowl212.github.io/csb-uj5dc/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://tfowl212.github.io/csb-uj5dc/static/js/2.b7068d31.chunk.js"
   },
   {
-    "revision": "e652d21f98629ad46df8",
-    "url": "https://tfowl212.github.io/csb-uj5dc/static/js/main.eb2c7b82.chunk.js"
+    "revision": "d9d3d8ed0becb00293a8",
+    "url": "https://tfowl212.github.io/csb-uj5dc/static/js/main.572855b2.chunk.js"
   },
   {
     "revision": "c8246c3086d9bd8826ee",
